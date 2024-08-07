@@ -1,0 +1,41 @@
+.board button {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border-radius: 50%;
+    border: 2px solid white; /*this gets rid of bootstrap shadow*/
+    margin: 1px;
+  }
+
+body{
+    background-color: gray;
+}
+
+.container{
+    background-color: black;
+    border: 2px solid gray;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+h1{
+    color: azure;
+}
+
+h2{
+    color:azure;
+}
+
+h3{
+    color:lightblue;
+}
+
+.blue{
+    color:rgb(86, 151, 255);
+}
+
+.red{
+    color:rgb(237, 45, 73)' 
+}
+
+
